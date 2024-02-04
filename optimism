@@ -1,7 +1,9 @@
 {
   "name": "Optimism",
   "website": "https://www.optimism.io/",
-  "description": "Trusted by developers, artists, and Fortune 500's. Scaling Ethereum & its values. ",
+  "description": "OP Mainnet is a low-cost and lightning-fast Ethereum L2 blockchain powered by Optimism.",
   "logo": "https://raw.githubusercontent.com/orderbooks/eigen/main/optimism.png",
   "twitter": "https://twitter.com/Optimism"
 }
+
+
